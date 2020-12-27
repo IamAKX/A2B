@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117140273928",
+    "firebase_url": "https://single-store.firebaseio.com",
+    "project_id": "single-store",
+    "storage_bucket": "single-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117140273928:android:bbc4ed657547d189574abd",
+        "android_client_info": {
+          "package_name": "com.genalycs.singlestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117140273928-1k4vjahdhlpsisrr6k64a78v0fg2b6vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmb8l-pbI4yMU26zXmyaj9eD2SqZyLuFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117140273928-1k4vjahdhlpsisrr6k64a78v0fg2b6vf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117140273928-nmp9b74s8un7hmt81u7ajm9vdos1l1qr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.genalycs.singlestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
